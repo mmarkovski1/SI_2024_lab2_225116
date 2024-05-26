@@ -2,7 +2,7 @@
 Марио Марковски, бр. на индекс 225116
 
 Control Flow Graph
-![softversko lab2 225116](https://github.com/mmarkovski1/SI_2024_lab2_225116/assets/163126736/221633ee-8ecb-484a-adaf-53b21f358a93)
+![si final](https://github.com/mmarkovski1/SI_2024_lab2_225116/assets/163126736/a80d8fd6-09d2-4e08-b359-2ac9b139e111)
 
 
 Цикломатска комплексност
